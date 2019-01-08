@@ -1,0 +1,10 @@
+package apCompSci;
+
+public class Test {
+	public void main(){
+		Hello();
+	}
+	public void Hello(){
+		System.out.println("hi");
+	}
+}
